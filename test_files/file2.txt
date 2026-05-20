@@ -1,0 +1,3 @@
+Another sample text file.
+It has a few words.
+And one more line to increase the count.

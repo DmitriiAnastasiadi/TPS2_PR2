@@ -1,0 +1,4 @@
+This is a sample file. It contains several words,
+some punctuation, and multiple lines.
+
+Let's count how many words are here.
